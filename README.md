@@ -65,9 +65,9 @@ I'm a **Génie Informatique (GI)** student at **EST Meknès**, operating at the 
 
 #### ⚔️ Featured Work
 
-- **`Adversarial Phishing Detection Framework (PFE)`** — Red/Blue team architecture using LLMs to generate evasive phishing vectors while dual-classifiers train on synthetic feedback loops.
+
 - **`Network Anomaly Detection Engine`** — Machine learning pipeline processing Nmap/TShark network packet data with Isolation Forest models, connected via Flask API to a custom monitoring interface.
-- **`Exogit JIRA`** — Task management system featuring custom role assignments, live updates powered by Server-Sent Events (SSE), and hashed security authentication.
+- **`MINI JIRA`** — Task management system featuring custom role assignments, live updates powered by Server-Sent Events (SSE), and hashed security authentication.
 
 ---
 
