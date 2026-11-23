@@ -16,7 +16,7 @@ I'm a **Génie Informatique (GI)** student at **EST Meknès**, operating at the 
 
 -  **Studying:** Computer Engineering (Génie Informatique) at École Supérieure de Technologie de Meknès (ESTM).
 - **Focusing on:** Offensive security, network analysis, and intrusion detection.
--  **Building:** Developing my Capstone Project (PFE)—an **Adversarial Phishing Detection Framework** using ML and LLMs to generate synthetic attacks and train robust classifiers.
+
 
 ---
 
